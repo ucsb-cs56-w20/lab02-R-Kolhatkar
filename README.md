@@ -1,4 +1,4 @@
-lab02-R-Kolhatkar
+# lab02-R-Kolhatkar
 
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-R-Kolhatkar/
